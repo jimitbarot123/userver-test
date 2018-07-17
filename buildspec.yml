@@ -16,4 +16,4 @@ phases:
       - echo Build completed on `date`
 artifacts:
   files:
-    - AWS-CodePipeLine-POC/target/AWS-CodePipeLine-POC-0.0.1-SNAPSHOT.jar
+    - target/AWS-CodePipeLine-POC-0.0.1-SNAPSHOT.jar
